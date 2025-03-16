@@ -17,4 +17,4 @@ npm i @react-navigation/stack
 npm i @rneui/base
 npm i react-native-url-polyfill
 npm i react-redux
-
+npm i mobx
