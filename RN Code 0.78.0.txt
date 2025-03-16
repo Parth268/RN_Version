@@ -1,7 +1,7 @@
 react@19.0.0
 npx react-native init appname 0.78.0
 
-
+// Use only small letter in project name
 npx @react-native-community/cli init appname --version 0.78.0
 npm i react-native-reanimated@3.17.1
 npm i react-native-gesture-handler
