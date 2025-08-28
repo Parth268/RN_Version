@@ -1,5 +1,6 @@
 react@19.1.0
 
+npx @react-native-community/cli init ProjectName --version 0.81.0 --package-name com.companyname.appname
 // Use only small letter in project name max 8 letter
 
 npx @react-native-community/cli init appname --version 0.81.0
