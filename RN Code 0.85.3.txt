@@ -1,0 +1,29 @@
+react@19.2.3
+
+npx @react-native-community/cli init ProjectName --version 0.85.3 --package-name com.companyname.appname
+// Use only small letter in project name max 8 letter
+
+npx @react-native-community/cli init appname --version 0.85.3
+npm i react-native-reanimated@4.4.1
+npm i react-native-gesture-handler
+npm i react-native-safe-area-context
+npm i react-native-screens
+
+
+npm i @react-navigation/bottom-tabs
+npm i @react-navigation/drawer
+npm i @react-navigation/native
+npm i @react-navigation/stack
+
+
+
+npm i @rneui/base
+npm i react-native-url-polyfill
+npm i react-redux
+npm i mobx
+npm i dotenv
+
+
+
+// Storage 
+npm install @react-native-async-storage/async-storage
